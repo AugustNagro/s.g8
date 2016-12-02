@@ -6,7 +6,7 @@ Use `sbt new augustnagro/s.g8` to create a minimal template with:
 * [SBT][sbt] (>= 0.13.13)
 * [ScalaCheck][scheck] (latest release)
 
-Reasoning for the template's settings are detailed [here][post]
+The settings are detailed [here][post]
 
 License: Creative Commons Zero v1.0
 http://choosealicense.com/licenses/cc0-1.0/#
