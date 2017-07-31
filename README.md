@@ -2,8 +2,8 @@ Minimal [Giter8][g8] template for Scala projects
 
 Use `sbt new augustnagro/s.g8` to create a minimal template with:
 
-* [Scala][scala] (2.12.2)
-* [SBT][sbt] (>= 0.13.15)
+* [Scala][scala] (2.12.3)
+* [SBT][sbt] (>= 0.13.16)
 * [ScalaCheck][scheck] (latest release)
 
 The settings are detailed [here][post]

@@ -1,5 +1,5 @@
 package $package$
 
-object Launcher extends App {
-  println("Hello world")
+class Launcher {
+  def main(args: Array[String]): Unit = println("hello world")
 }

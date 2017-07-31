@@ -1,7 +1,7 @@
 name := "$name$"
 organization := "$organization$"
 version := "$version$"
-scalaVersion := "2.12.2"
+scalaVersion := "2.12.3"
 
 libraryDependencies ++= Seq(
   "org.scalacheck" %% "scalacheck" % "$scalacheck_version$" % "test"
