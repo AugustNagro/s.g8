@@ -1,8 +1,3 @@
-package $package$
-
-import org.scalacheck.Properties
-import org.scalacheck.Prop.forAll
-
 object StringSpec extends Properties("String") {
 
   property("startsWith") = forAll { (a: String, b: String) =>
