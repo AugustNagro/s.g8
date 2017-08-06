@@ -1,7 +1,9 @@
 package $organization$
 
+import Predef._
+
 object Launcher {
   def main(args: Array[String]): Unit = {
-    println("Hello World")
+    println("hello world")
   }
 }
